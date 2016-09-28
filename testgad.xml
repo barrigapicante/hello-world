@@ -5,7 +5,11 @@
   </ModulePrefs>
   <Content type="html" view="home">
     <![CDATA[
+      <input type="button" name="button" onclick="alert();">
       Hello, small world!
+      <script type="text/javascript">
+      
+      </script>
     ]]>  
   </Content>
   <Content type="html" view="canvas"> 
